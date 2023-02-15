@@ -46,7 +46,37 @@ I'm Nayan , a passionate self-taught Full Stack web developer and a freelance so
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Key Skills&nbsp;/&nbsp;Framework stats</b></summary>
+  <br />
+<p>
+    Back End Development
+</p>
+<p>
+    Python Development
+</p>
+<p>
+    Django Web Development
+</p>
+<p>
+    API Connections
+</p>
+<p>
+    Linux administration
+</p>
+<details>
+  <summary><b>📈&nbsp;&nbsp;Extra skills</b></summary>
+  <br />
+<p>Docker</p>
+<p>Git (Version Controlling)</p>
+<p>GraphQL</p>
+<p>Javascript</p>
+<p>Python WebSockets</p>
+<p>AWS</p>
 
+</details>
+
+</details>
 
 
 -------
