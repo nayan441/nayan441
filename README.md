@@ -20,7 +20,6 @@ I'm Nayan , a passionate self-taught Full Stack web developer and a freelance so
 - 💼 Any freelance work? Do reach, [email](mailto:ynayan93@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
 <br />
-<details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
   <p align="left"> <a href="https://angular.io" target="_blank"> 
@@ -47,7 +46,6 @@ I'm Nayan , a passionate self-taught Full Stack web developer and a freelance so
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-</details>
 
 
 
