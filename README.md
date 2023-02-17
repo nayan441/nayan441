@@ -19,6 +19,7 @@ I'm Nayan , a passionate self-taught Full Stack web developer and a freelance so
   
 - 💼 Any freelance work? Do reach, [email](mailto:ynayan93@gmail.com) :)
 - 💬 Ask me about anything, I am happy to help;
+- Visit my portfolio website
 <br />
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
