@@ -37,8 +37,9 @@ I'm Nayan, a passionate self-taught Full Stack web developer and a freelance sof
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="python" width="40" height="40"/></a>
   <a href="https://angular.io" target="_blank"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/> </a>
-    <a href="#" target="_blank"> 
-     </a> <a href="https://aws.amazon.com" target="_blank">
+  <a href="#" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Azure-Dark.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="bash" width="40" height="40"/> </a> 
@@ -46,13 +47,10 @@ I'm Nayan, a passionate self-taught Full Stack web developer and a freelance sof
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" alt="grafana" width="40" height="40"/> </a>   <a href="#" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg" width="40" height="40"/> </a> 
   <a href="#" target="_blank">  
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a> <a href="#" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" alt="nginx" width="40" height="40"/> </a>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="#" target="_blank">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> </a> 
-     <a href="#" target="_blank"> 
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> 
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="#" target="_blank"> 
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://redis.io" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> 
